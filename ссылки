@@ -18,14 +18,13 @@
 
 **ССЫЛКИ**:  
 !!! https://docs.dgl.ai/en/2.0.x/tutorials/blitz/4_link_predict.html 
-1) Документация моделей: 
-https://github.com/hyunjoonbok/Recommendation_System-PyTorch/tree/master
+
 2) Диплом по рекомендательным системам:
 https://www.kaggle.com/competitions/skillbox-recommender-system/data
 https://github.com/d-01/graduate-2022-rec-sys?tab=readme-ov-file
 https://www.youtube.com/watch?v=sa9garlNMqk
 3) Хорошая реализация https://pureai.substack.com/p/recommender-systems-with-pytorch
-4) https://pureai.substack.com/p/recommender-systems-with-pytorch
+
 5) Эмбеддинги:
 https://gist.github.com/devforfu/d947d42f01c934b9ede2fb89e2700177#file-embeddings_network-py
 6) открывать с VPN
@@ -45,10 +44,9 @@ https://ceur-ws.org/Vol-3294/short4.pdf
 - TfIdf https://www.youtube.com/watch?v=e-I_G9QhHTA
 
 - Индус (хорошая реализация) https://www.youtube.com/watch?v=MVB1cbe923A
-- француз (подключение cuda) https://www.youtube.com/watch?v=TaEWBB00Els
 - Content-Based Recommendation System https://www.youtube.com/watch?v=ijtxuF_5kEU
 - https://www.youtube.com/watch?v=9n8lRv8aTAk
-- Китаец (хорошая картинка для понимания) https://www.youtube.com/watch?v=v90un9ALRzw
+- (хорошая картинка для понимания) https://www.youtube.com/watch?v=v90un9ALRzw
 - прямой эфир написания кода https://www.youtube.com/watch?v=zThs-4EtJdA 
 
 
